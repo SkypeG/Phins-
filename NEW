@@ -332,9 +332,9 @@ tunnel_menu() {
 	{ clear; banner_small; }
 	cat <<- EOF
 
-		${RED}[${WHITE}01${RED}]${ORANGE} Localhost    ${RED}[${CYAN}]
-		${RED}[${WHITE}02${RED}]${ORANGE} Ngrok.io     ${RED}[${CYAN}]
-		${RED}[${WHITE}03${RED}]${ORANGE} Cloudflared  ${RED}[${CYAN}NEW!${RED}]
+		${RED}[${WHITE}01${RED}]${ORANGE} Localhost
+		${RED}[${WHITE}02${RED}]${ORANGE} Ngrok.io
+		${RED}[${WHITE}03${RED}]${ORANGE} Cloudflared  ${RED}[${CYAN}NEW!$]
 
 	EOF
 
