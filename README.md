@@ -6,6 +6,7 @@
 ```
 $ git clone https://github.com/SkypeG/Phins-
 ```
+$ cd Phins-
 
 ```
 $ bash Phins.sh
